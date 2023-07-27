@@ -41,12 +41,12 @@
 
 | <center> Reference Face </center> | <center> Text </center> | <center> MM-StyleSpeech </center>| <center> MM-TTS </center>|
 | -----------     |  -----------     | -----------     |  -----------     |
-|  ![](MM-TTS/Face/Oulu/0.jpg)  | "He's got to learn," declared Tad. |  <audio src="MM-TTS/Face/Oulu/mmss/0.wav" controls preload></audio>  | <audio src="MM-TTS/Face/Oulu/mmtts/0.wav" controls preload></audio>  |
-|   ![](MM-TTS/Face/Oulu/4.jpg)  | You have seen what wonderful swinging baskets the Oriole makes for his baby cradle? |  <audio src="MM-TTS/Face/Oulu/mmss/4.wav" controls preload></audio>  | <audio src="MM-TTS/Face/Oulu/mmtts/4.wav" controls preload></audio>  |
-|   ![](MM-TTS/Face/Oulu/12.jpg)  | "It's a big place," he said.|  <audio src="MM-TTS/Face/Oulu/mmss/12.wav" controls preload></audio>  | <audio src="MM-TTS/Face/Oulu/mmtts/12.wav" controls preload></audio>  |
-|   ![](MM-TTS/Face/Oulu/24.jpg)  | "I think a man in my situation is to be pitied-especially by his brother. |  <audio src="MM-TTS/Face/Oulu/mmss/24.wav" controls preload></audio>  | <audio src="MM-TTS/Face/Oulu/mmtts/24.wav" controls preload></audio>  |
-|   ![](MM-TTS/Face/Oulu/33.jpg)  | It was Christmas.|  <audio src="MM-TTS/Face/Oulu/mmss/33.wav" controls preload></audio>  | <audio src="MM-TTS/Face/Oulu/mmtts/33.wav" controls preload></audio>  |
-|  ![](MM-TTS/Face/Oulu/128.jpg)  | The last two days of the voyage Bartley found almost intolerable. |  <audio src="MM-TTS/Face/Oulu/mmss/128.wav" controls preload></audio>  | <audio src="MM-TTS/Face/Oulu/mmtts/128.wav" controls preload></audio>  |
+|  ![](MM-TTS/Face/Oulu/0.jpeg)  | "He's got to learn," declared Tad. |  <audio src="MM-TTS/Face/Oulu/mmss/0.wav" controls preload></audio>  | <audio src="MM-TTS/Face/Oulu/mmtts/0.wav" controls preload></audio>  |
+|   ![](MM-TTS/Face/Oulu/4.jpeg)  | You have seen what wonderful swinging baskets the Oriole makes for his baby cradle? |  <audio src="MM-TTS/Face/Oulu/mmss/4.wav" controls preload></audio>  | <audio src="MM-TTS/Face/Oulu/mmtts/4.wav" controls preload></audio>  |
+|   ![](MM-TTS/Face/Oulu/12.jpeg)  | "It's a big place," he said.|  <audio src="MM-TTS/Face/Oulu/mmss/12.wav" controls preload></audio>  | <audio src="MM-TTS/Face/Oulu/mmtts/12.wav" controls preload></audio>  |
+|   ![](MM-TTS/Face/Oulu/24.jpeg)  | "I think a man in my situation is to be pitied-especially by his brother. |  <audio src="MM-TTS/Face/Oulu/mmss/24.wav" controls preload></audio>  | <audio src="MM-TTS/Face/Oulu/mmtts/24.wav" controls preload></audio>  |
+|   ![](MM-TTS/Face/Oulu/33.jpeg)  | It was Christmas.|  <audio src="MM-TTS/Face/Oulu/mmss/33.wav" controls preload></audio>  | <audio src="MM-TTS/Face/Oulu/mmtts/33.wav" controls preload></audio>  |
+|  ![](MM-TTS/Face/Oulu/128.jpeg)  | The last two days of the voyage Bartley found almost intolerable. |  <audio src="MM-TTS/Face/Oulu/mmss/128.wav" controls preload></audio>  | <audio src="MM-TTS/Face/Oulu/mmtts/128.wav" controls preload></audio>  |
 
 ## Text based Style Transfer
 
