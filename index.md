@@ -60,7 +60,7 @@
 ## Text based Style Transfer
 
 | <center> Text Descriptions </center> | <center> Text </center> |  <center> MM-StyleSpeech </center>| <center> MM-TTS </center>|
-| -----------     |  -----------     | -----------     |
+| -----------     |  -----------     | -----------     |-----------     |
 | A man speaks with a tone of extreme anger. | "He's got to learn," declared Tad. |  <audio src="MM-TTS/Text/mmss/text_M003_angry_level_3_019.wav" controls preload></audio>  |  <audio src="MM-TTS/Text/mmtts/text_M003_angry_level_3_019.wav" controls preload></audio>  |
 | There's an intense happiness in the man's tone. | "He's got to learn," declared Tad. |  <audio src="MM-TTS/Text/mmss/text_M003_happy_level_3_017.wav" controls preload></audio>  |  <audio src="MM-TTS/Text/mmtts/text_M003_happy_level_3_017.wav" controls preload></audio>  |
 | A man says with a slightly surprised tone | "He's got to learn," declared Tad. |  <audio src="MM-TTS/Text/mmss/text_M003_surprised_level_1_026.wav" controls preload></audio>  |  <audio src="MM-TTS/Text/mmtts/text_M003_surprised_level_1_026.wav" controls preload></audio>  |
