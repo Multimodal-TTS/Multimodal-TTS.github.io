@@ -4,26 +4,33 @@
 `MM-TTS: Expressive Text-to-Speech Synthesis with Multi-modal Prompts`
 ---
 
-## Speech based Style Transfer
+## Reference Speech based Style Transfer
 
 ### Intra-domain
 
-| <center> Reference Speech </center> | <center> Text </center> | <center> MM-StyleSpeech </center>| <center> MM-TTS </center>|
+| <center> Reference Speech </center> | <center> Text </center> |<center> MS-FS2 </center>|<center> GenerSpeech </center>|<center>IST-TTS </center>| <center> MM-StyleSpeech </center>| <center> MM-TTS </center>|
 | -----------     |  -----------     | -----------     |  -----------     |
-|  <audio src="MM-TTS/Speech/mead/mm_ss/4_orig.wav" controls preload></audio>  | The plaintiff in school desegregation cases. |  <audio src="MM-TTS/Speech/mead/mm_ss/4.wav" controls preload></audio>  | <audio src="MM-TTS/Speech/mead/mmtts/4.wav" controls preload></audio>  |
-|  <audio src="MM-TTS/Speech/mead/mm_ss/9_orig.wav" controls preload></audio>  | His superiors had also preached this saying it was the way for eternal honor. |  <audio src="MM-TTS/Speech/mead/mm_ss/9.wav" controls preload></audio>  | <audio src="MM-TTS/Speech/mead/mmtts/9.wav" controls preload></audio>  |
-|  <audio src="MM-TTS/Speech/mead/mm_ss/11_orig.wav" controls preload></audio>  | Land based radar would help with this task. |  <audio src="MM-TTS/Speech/mead/mm_ss/11.wav" controls preload></audio>  | <audio src="MM-TTS/Speech/mead/mmtts/11.wav" controls preload></audio>  |
-|  <audio src="MM-TTS/Speech/mead/mm_ss/34_orig.wav" controls preload></audio>  | Obviously the bridal pair has many adjustments to make to their new situation. |  <audio src="MM-TTS/Speech/mead/mm_ss/34.wav" controls preload></audio>  | <audio src="MM-TTS/Speech/mead/mmtts/34.wav" controls preload></audio>  |
+|  <audio src="MM-TTS/Speech/mead/mm_ss/4_orig.wav" controls preload></audio>  | The plaintiff in school desegregation cases. |  <audio src="MM-TTS/Speech/mead/fs/4.wav" controls preload></audio>  | <audio src="MM-TTS/Speech/mead/generspeech/4.wav" controls preload></audio>  |  <audio src="MM-TTS/Speech/mead/isttts/4.wav" controls preload></audio>  | <audio src="MM-TTS/Speech/mead/mm_ss/4.wav" controls preload></audio>  |<audio src="MM-TTS/Speech/mead/mmtts/4.wav" controls preload></audio>  |
+|  <audio src="MM-TTS/Speech/mead/mm_ss/9_orig.wav" controls preload></audio>  | His superiors had also preached this saying it was the way for eternal honor.|  <audio src="MM-TTS/Speech/mead/fs/9.wav" controls preload></audio>  | <audio src="MM-TTS/Speech/mead/generspeech/9.wav" controls preload></audio>  |  <audio src="MM-TTS/Speech/mead/isttts/9.wav" controls preload></audio>  | <audio src="MM-TTS/Speech/mead/mm_ss/9.wav" controls preload></audio>  |<audio src="MM-TTS/Speech/mead/mmtts/9.wav" controls preload></audio>  |
+|  <audio src="MM-TTS/Speech/mead/mm_ss/11_orig.wav" controls preload></audio>  | Land based radar would help with this task. |  <audio src="MM-TTS/Speech/mead/fs/11.wav" controls preload></audio>  | <audio src="MM-TTS/Speech/mead/generspeech/11.wav" controls preload></audio>  |  <audio src="MM-TTS/Speech/mead/isttts/11.wav" controls preload></audio>  | <audio src="MM-TTS/Speech/mead/mm_ss/11.wav" controls preload></audio>  |<audio src="MM-TTS/Speech/mead/mmtts/11.wav" controls preload></audio>  |
+|  <audio src="MM-TTS/Speech/mead/mm_ss/34_orig.wav" controls preload></audio>  | Obviously the bridal pair has many adjustments to make to their new situation. |  <audio src="MM-TTS/Speech/mead/fs/34.wav" controls preload></audio>  | <audio src="MM-TTS/Speech/mead/generspeech/34.wav" controls preload></audio>  |  <audio src="MM-TTS/Speech/mead/isttts/34.wav" controls preload></audio>  | <audio src="MM-TTS/Speech/mead/mm_ss/34.wav" controls preload></audio>  |<audio src="MM-TTS/Speech/mead/mmtts/34.wav" controls preload></audio>  |
 
 ### Out-of-domain
 
-| <center> Reference Speech </center> | <center> Text </center> | <center> MM-StyleSpeech </center>| <center> MM-TTS </center>|
+| <center> Reference Speech </center> | <center> Text </center> |<center> MS-FS2 </center>|<center> GenerSpeech </center>|<center>IST-TTS </center>| <center> MM-StyleSpeech </center>| <center> MM-TTS </center>|
 | -----------     |  -----------     | -----------     |  -----------     |
-|  <audio src="MM-TTS/Speech/libritts/mm_ss/4_orig.wav" controls preload></audio>  | You have seen what wonderful swinging baskets the Oriole makes for his baby cradle? |  <audio src="MM-TTS/Speech/libritts/mm_ss/4.wav" controls preload></audio>  | <audio src="MM-TTS/Speech/libritts/mmtts/4.wav" controls preload></audio>  |
-|  <audio src="MM-TTS/Speech/libritts/mm_ss/12_orig.wav" controls preload></audio>  | "It's a big place," he said. |  <audio src="MM-TTS/Speech/libritts/mm_ss/12.wav" controls preload></audio>  | <audio src="MM-TTS/Speech/libritts/mmtts/12.wav" controls preload></audio>  |
-|  <audio src="MM-TTS/Speech/libritts/mm_ss/19_orig.wav" controls preload></audio>  | I had orders to allow no one to pass. |  <audio src="MM-TTS/Speech/libritts/mm_ss/19.wav" controls preload></audio>  | <audio src="MM-TTS/Speech/libritts/mmtts/19.wav" controls preload></audio>  |
-|  <audio src="MM-TTS/Speech/libritts/mm_ss/21_orig.wav" controls preload></audio>  | The matter was talked about at dinner.|  <audio src="MM-TTS/Speech/libritts/mm_ss/21.wav" controls preload></audio>  | <audio src="MM-TTS/Speech/libritts/mmtts/21.wav" controls preload></audio>  |
+|  <audio src="MM-TTS/Speech/libritts/mm_ss/15_orig.wav" controls preload></audio>  | I never dreamed it would be you, Bartley. |  <audio src="MM-TTS/Speech/libritts/fs/15.wav" controls preload></audio>  | <audio src="MM-TTS/Speech/libritts/generspeech/15.wav" controls preload></audio>  |  <audio src="MM-TTS/Speech/libritts/isttts/15.wav" controls preload></audio>  | <audio src="MM-TTS/Speech/libritts/mm_ss/15.wav" controls preload></audio>  |<audio src="MM-TTS/Speech/libritts/mmtts/15.wav" controls preload></audio>  |
+|  <audio src="MM-TTS/Speech/libritts/mm_ss/19_orig.wav" controls preload></audio>  | I had orders to allow no one to pass.|  <audio src="MM-TTS/Speech/libritts/fs/19.wav" controls preload></audio>  | <audio src="MM-TTS/Speech/libritts/generspeech/19.wav" controls preload></audio>  |  <audio src="MM-TTS/Speech/libritts/isttts/19.wav" controls preload></audio>  | <audio src="MM-TTS/Speech/libritts/mm_ss/19.wav" controls preload></audio>  |<audio src="MM-TTS/Speech/libritts/mmtts/19.wav" controls preload></audio>  |
+|  <audio src="MM-TTS/Speech/libritts/mm_ss/21_orig.wav" controls preload></audio>  | The matter was talked about at dinner. |  <audio src="MM-TTS/Speech/libritts/fs/21.wav" controls preload></audio>  | <audio src="MM-TTS/Speech/libritts/generspeech/21.wav" controls preload></audio>  |  <audio src="MM-TTS/Speech/libritts/isttts/21.wav" controls preload></audio>  | <audio src="MM-TTS/Speech/libritts/mm_ss/21.wav" controls preload></audio>  |<audio src="MM-TTS/Speech/libritts/mmtts/21.wav" controls preload></audio>  |
+|  <audio src="MM-TTS/Speech/libritts/mm_ss/90_orig.wav" controls preload></audio>  | He stood for a moment in awkward constraint, his pipe in his hand. |  <audio src="MM-TTS/Speech/libritts/fs/90.wav" controls preload></audio>  | <audio src="MM-TTS/Speech/libritts/generspeech/90.wav" controls preload></audio>  |  <audio src="MM-TTS/Speech/libritts/isttts/90.wav" controls preload></audio>  | <audio src="MM-TTS/Speech/libritts/mm_ss/90.wav" controls preload></audio>  |<audio src="MM-TTS/Speech/libritts/mmtts/90.wav" controls preload></audio>  |
 
+### Non-Parallel Style Transfer
+| <center> Reference Speech </center> | <center> Text </center> |<center> MM-TTS </center>|
+| -----------     |  -----------     | -----------     |  -----------     |
+|  <audio src="MM-TTS/Speech/NPST/6_orig.wav" controls preload></audio>  | He protected her, and she strengthened him. |<audio src="MM-TTS/Speech/NPST/6.wav" controls preload></audio>  |
+|  <audio src="MM-TTS/Speech/NPST/10_orig.wav" controls preload></audio>  | "My name is Phoebe Pyncheon," said the girl, with a manner of some reserve; for she was aware that her new acquaintance could be no other than the daguerreotypist, of whose lawless propensities the old maid had given her a disagreeable idea. |<audio src="MM-TTS/Speech/NPST/10.wav" controls preload></audio>  |
+|  <audio src="MM-TTS/Speech/NPST/52_orig.wav" controls preload></audio>  | "It's surely a terrible storm outside," said the merchant's eldest daughter, as the wind rattled the tiles of the roof and the rain beat in torrents against the doors and windows. |<audio src="MM-TTS/Speech/NPST/52.wav" controls preload></audio>  |
+|  <audio src="MM-TTS/Speech/NPST/59_orig.wav" controls preload></audio>  |Grethel wept bitterly, and said to Hansel, "What will become of us?"|<audio src="MM-TTS/Speech/NPST/59.wav" controls preload></audio>  |
 
 
 ## Face based Style Transfer
