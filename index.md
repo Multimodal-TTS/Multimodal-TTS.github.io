@@ -1,7 +1,7 @@
 
 ## Abstract
 
-`MM-TTS: Expressive Text-to-Speech Synthesis with Multi-modal Prompts`
+`MM-TTS: Multi-modal Prompt based Style Transfer for Expressive Text-to-Speech Synthesis`
 ---
 
 ## Reference Speech based Style Transfer
