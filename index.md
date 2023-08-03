@@ -24,6 +24,7 @@
 |  <audio src="MM-TTS/Speech/libritts/mm_ss/21_orig.wav" controls preload></audio>  | The matter was talked about at dinner. |  <audio src="MM-TTS/Speech/libritts/fs/21.wav" controls preload></audio>  | <audio src="MM-TTS/Speech/libritts/generspeech/21.wav" controls preload></audio>  |  <audio src="MM-TTS/Speech/libritts/isttts/21.wav" controls preload></audio>  | <audio src="MM-TTS/Speech/libritts/mm_ss/21.wav" controls preload></audio>  |<audio src="MM-TTS/Speech/libritts/mmtts/21.wav" controls preload></audio>  |
 |  <audio src="MM-TTS/Speech/libritts/mm_ss/90_orig.wav" controls preload></audio>  | He stood for a moment in awkward constraint, his pipe in his hand. |  <audio src="MM-TTS/Speech/libritts/fs/90.wav" controls preload></audio>  | <audio src="MM-TTS/Speech/libritts/generspeech/90.wav" controls preload></audio>  |  <audio src="MM-TTS/Speech/libritts/isttts/90.wav" controls preload></audio>  | <audio src="MM-TTS/Speech/libritts/mm_ss/90.wav" controls preload></audio>  |<audio src="MM-TTS/Speech/libritts/mmtts/90.wav" controls preload></audio>  |
 
+
 ### Non-Parallel Style Transfer
 | <center> Reference Speech </center> | <center> Text </center> |<center> MM-TTS </center>|
 | -----------     |  -----------     | -----------     | 
