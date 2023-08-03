@@ -26,6 +26,7 @@
 
 
 ### Non-Parallel Style Transfer
+
 | <center> Reference Speech </center> | <center> Text </center> |<center> MM-TTS </center>|
 | -----------     |  -----------     | -----------     | 
 |  <audio src="MM-TTS/Speech/NPST/6_orig.wav" controls preload></audio>  | He protected her, and she strengthened him. |<audio src="MM-TTS/Speech/NPST/6.wav" controls preload></audio>  |
