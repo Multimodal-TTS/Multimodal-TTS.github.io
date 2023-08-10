@@ -4,7 +4,7 @@
 `MM-TTS: Multi-modal Prompt based Style Transfer for Expressive Text-to-Speech Synthesis`
 ---
 
-## Reference Speech based Style Transfer
+## Reference Speech Speech based Style Transfer
 
 ### Intra-domain
 
@@ -60,7 +60,7 @@
 |   ![](MM-TTS/Face/Oulu/P012_Fear_1_1_019_0.jpeg)  | There are many trustworthy men, and men of Christian faith, to vouch for these and similar events occurring as foretold.|  <audio src="MM-TTS/Face/Oulu/mmss/face_P012_Fear_019_M.wav" controls preload></audio>  | <audio src="MM-TTS/Face/Oulu/mmtts/face_P012_Fear_019_M.wav" controls preload></audio>  |
 |  ![](MM-TTS/Face/Oulu/P046_Surprise_1_1_013_0.jpeg)  | As soon as I was with her as I should be, She said to me: "Why, brother, dost thou not Venture to question now, in coming with me?" |  <audio src="MM-TTS/Face/Oulu/mmss/face_P046_Surprise_013_M.wav" controls preload></audio>  | <audio src="MM-TTS/Face/Oulu/mmtts/face_P046_Surprise_013_M.wav" controls preload></audio>  |
 
-## Text based Style Transfer
+## Text Description based Style Transfer
 
 | <center> Text Descriptions </center> | <center> Text </center> |  <center> MM-StyleSpeech </center>| <center> MM-TTS </center>|
 | -----------     |  -----------     | -----------     |-----------     |
